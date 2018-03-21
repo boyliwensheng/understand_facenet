@@ -1,0 +1,7 @@
+arguments: E:/facenet/align/align_dataset_mtcnn.py data/lfw data/lfw_180 --image_size 160 --margin 32 --random_order
+--------------------
+tensorflow version: 1.4.0
+--------------------
+git hash: git rev-parse HEAD: 系统找不到指定的文件。
+--------------------
+git diff HEAD: 系统找不到指定的文件。
